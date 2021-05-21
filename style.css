@@ -1,0 +1,23 @@
+:root{
+    --bg: #ffe6f2;
+    --tittle: #993366;
+    --text: #d65cad;
+}
+
+body{
+    background: var(--bg);
+    padding: 25px;
+    font-family: 'Calibri';
+}
+
+h2{
+    color: var(--tittle);
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    color: var(--text);
+    text-align: justify;
+    font-size: 25px;
+}
